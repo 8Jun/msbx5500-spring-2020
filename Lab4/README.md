@@ -1,6 +1,6 @@
-## Simple Machine Learning model deployment using Flask and Heroku
+# Simple Machine Learning model deployment using Flask and Heroku
 
-# Objective
+## Objective
 * Understand how to use both Flask and Heroku inorder to deploy a useable machine learning model.
 
 ## Code Preview
